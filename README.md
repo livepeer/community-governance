@@ -22,6 +22,6 @@ The agenda for each meeting will be posted in an [issue](https://github.com/live
 
 ### Meetings
 
-| №   | Date                              | Agenda                                                              | Notes | Recording |
-| --- | --------------------------------- | ------------------------------------------------------------------- | ----- | --------- |
-| 0   | Thursday May 28th 2020, 17:00 UTC | [Agenda](https://github.com/livepeer/community-governance/issues/1) | TBD   | TBD       |
+| №   | Date                              | Agenda                                                              | Notes                                  | Recording                                                                 |
+| --- | --------------------------------- | ------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- |
+| 0   | Thursday May 28th 2020, 17:00 UTC | [Agenda](https://github.com/livepeer/community-governance/issues/1) | [Notes](LIP-Meetings/LIP-Meeting-0.md) | [Recording](https://www.youtube.com/watch?v=jdt-ty7cllA&feature=youtu.be) |
