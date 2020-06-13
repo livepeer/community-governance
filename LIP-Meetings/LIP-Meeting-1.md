@@ -1,4 +1,4 @@
-# LIP Meeting 0
+# LIP Meeting 1
 
 **Meeting Date/Time**: Thursday June 11th 2020, 17:00 UTC
 
