@@ -40,7 +40,7 @@ Nico:
 
 ### Inflation change proposal
 
-Victor:
+Viktor:
 - Want quick decisions - timeline not days, but not months
 - Extend runway to provide broader adoption
 - Some disagreement about negative impact of inflation = 0
@@ -53,10 +53,10 @@ Victor:
 
 Doug:
 - We've been sharing POVs on proposal in GH issue
-- Let's acknowledge that in our LIP process Victor has ability to move the LIP through the process without needing buy in from everyone at the early stage
-- To Victor: What would be most helpful for you to get feedback on?
+- Let's acknowledge that in our LIP process Viktor has ability to move the LIP through the process without needing buy in from everyone at the early stage
+- To Viktor: What would be most helpful for you to get feedback on?
 
-Victor:
+Viktor:
 - Top thing is to get opinion of respected people with expertise in these areas to inform approach
 
 Gavin:
@@ -64,7 +64,7 @@ Gavin:
   - Acknowledge something needs to be done
   - How is it done
 
-Victor:
+Viktor:
 - Cos like Bison Trails don't have large scale GPU farms
 - Fully expect these cos to be left behind if we don't scale up and prepare
 - Who is benefiting from this change? Token holders
@@ -76,14 +76,14 @@ Nico:
 - Concerned about experience of smaller operators vs. larger operators
 - Not just about incentivizing GPU providers, but about operators providing value add services
 
-Victor:
+Viktor:
 - Either way, attracting demand will be the most important
 - More to think about -> not just improve tooling to top performances, but think about as Livepeer evolves how does the community evolve as well
 
 Doug:
 - Having nodes call reward without providing transcoding in the early days wasn't all bad -> led to a lot of community building efforts from those early adopters
 
-Victor:
+Viktor:
 - Not a developer - need help
 
 Yondon:
@@ -121,8 +121,8 @@ N/A
 
 ### TODOs
 
-- Victor to get additional feedback on inflation change proposal (maybe couple of days) before pushing forward
-- Yondon to help Victor with inflation change proposal implementation
+- Viktor to get additional feedback on inflation change proposal (maybe couple of days) before pushing forward
+- Yondon to help Viktor with inflation change proposal implementation
 - Nico to finish implementation for LIP-25 and get it to Last Call
 - Yondon to publish draft LIP for earnings claiming
 - Doug to push forward discussion on protocol capability + verification function
