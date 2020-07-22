@@ -31,7 +31,7 @@
 
 Note: While the writing below attributes ideas to certain people, it was a best attempt at capturing the dialogue during the meeting and is not necessarily a word for word representation for what was said during the meeting.
 
-### Inflation Change proposal
+### LIP-35: Inflation Change proposal
 
 Viktor:
 
@@ -65,7 +65,7 @@ Yondon:
 - Will assess the timing on LIPs and based on that we can decide whether to do a batch security audit on all of them
 - Would prefer an audit happens before a vote
 
-### Cumulative Earnings Claiming
+### LIP-36: Cumulative Earnings Claiming
 
 Yondon:
 
