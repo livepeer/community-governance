@@ -35,9 +35,9 @@ Note: While the writing below attributes ideas to certain people, it was a best 
 
 Viktor:
 
-- Received lots of feedback from infra providers and community members and Incorporated as much feedback as possible
+- Received lots of feedback from infra providers and community members and incorporated as much feedback as possible
 - Biggest change was that the proposal has been split proposal in two:
-  - LIP-34 - change to the inflation =parameter
+  - LIP-34 - change to the inflation parameter
   - LIP-40 - change minter contract to support greater degree of precision
 - Bundled into LIP-35
 - Ready to move into last call
