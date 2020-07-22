@@ -6,7 +6,7 @@
 
 **GH Agenda**: https://github.com/livepeer/community-governance/issues/5
 
-**Recording**:
+**Recording**: https://www.youtube.com/watch?v=es06OBPHKeE
 
 **Notes**: Adam Soffer
 
