@@ -35,8 +35,8 @@ Note: While the writing below attributes ideas to certain people, it was a best 
 
 Viktor:
 
-- Received lots of feedback from infra providers and community members and Incorporated as much feedback as he could
-- Biggest change was that the proposal has been split proposal in two due to technical constraints
+- Received lots of feedback from infra providers and community members and Incorporated as much feedback as possible
+- Biggest change was that the proposal has been split proposal in two:
   - LIP-34 - change to the inflation =parameter
   - LIP-40 - change minter contract to support greater degree of precision
 - Bundled into LIP-35
@@ -44,7 +44,7 @@ Viktor:
 
 Yondon
 
-- Support Easier to reason about individual LIPs individually by bundling
+- Easier to reason about individual LIPs individually by bundling
 - Important that the LIP is as tightly scoped as possible given time constraint caused by inflation. Hitting zero within the next 6-8 months
 
 ### LIP-25: Extensible Governance Contract
@@ -71,8 +71,7 @@ Yondon:
 
 - A draft was created last week that describes a new algorithm for clamining earnings that seeks to drastically reduce the end transaction cost of claiming earnings.
 - We’ve started an implementation for the spec.
-- Feels like an uncontroversial change given that it’s an absolute positive for all participants on the network. Just need to make sure everything is transparent.
-- Will likely receive less community feedback.
+- Feels like an uncontroversial change given that it’s an absolute positive for all participants on the network. Just need to make sure everything is transparent. Will likely receive less community feedback due to this.
 
 Nico:
 
@@ -80,9 +79,6 @@ Nico:
 - Feels like we’re making good progress
 - The implementation will be finished before the next LIP call
 - The changes are bigger in scope than the other LIPs so we want to make sure there are no errors in the new calculation approach.
-
-- LIP process
-  - Should an implementation be a requirement at a particular stage of the LIP process? If so, what stage should it be required in?
 
 ### Should an implementation be a requirement at a particular stage in the LIP process?
 
@@ -112,7 +108,7 @@ Nico:
 
 Gavin:
 
-- Should think about way we can reduce friction and encourage proposal creations
+- Should think about ways we can reduce friction and encourage proposal creations
 
 Nico:
 
