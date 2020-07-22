@@ -15,7 +15,7 @@
 <!-- Meeting agenda -->
 
 - LIP candidates
-  - [InflationChange Parameter Update](https://github.com/livepeer/LIPs/issues/34)
+  - [LIP-35: InflationChange Parameter Update](https://github.com/livepeer/LIPs/blob/master/LIPs/LIP-35.md)
     - Champion: @viktorbunin
   - [LIP-25: Extensible Governance Contract](https://github.com/livepeer/LIPs/blob/master/LIPs/LIP-25.md)
     - [Discussion](https://github.com/livepeer/LIPs/issues/25)
