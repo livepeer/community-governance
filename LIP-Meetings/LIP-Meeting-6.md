@@ -1,4 +1,4 @@
-# LIP Meeting 5
+# LIP Meeting 6
 
 **Meeting Date/Time**: Thursday August 20th 2020, 17:00 UTC
 
