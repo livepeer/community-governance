@@ -9,12 +9,12 @@ This repo contains information and tools for community governance of the Livepee
 The LIP meeting is a bi-weekly discussion of [LIPs](https://github.com/livepeer/LIPs) to improve the Livepeer protocol. The meeting will:
 
 - Serve as a forum for synchronous, verbal feedback on LIPs to complement the asynchronous, written feedback that can be found in [LIP issues](https://github.com/livepeer/LIPs/issues), the [Livepeer forum](https://forum.livepeer.org/) or [Discord](https://discord.gg/7wRSUGX).
-- Enable LIP contributors to share updates on the status of a LIP's design and/or implementation. 
+- Enable LIP contributors to share updates on the status of a LIP's design and/or implementation.
 - Enable protocol developers to plan and coordinate the work necessary to implement and/or deploy a LIP.
 
 ### Who Can Attend
 
-Anyone that is currently doing work related to a LIP or that is interested in providing feedback on a LIP is welcome to attend the meeting. 
+Anyone that is currently doing work related to a LIP or that is interested in providing feedback on a LIP is welcome to attend the meeting.
 
 ### Agenda Items
 
@@ -24,7 +24,7 @@ The agenda for each meeting will be posted in an [issue](https://github.com/live
 
 | №   | Date                                    | Agenda                                                               | Notes                                                                                               | Recording                                                                 |
 | --- | --------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 9   | Thursday October 8th 2020, 17:00 UTC    | [Agenda](https://github.com/livepeer/community-governance/issues/12) | TBD                                                                                                 | TBD                                                                       |
+| 9   | Thursday October 8th 2020, 17:00 UTC    | [Agenda](https://github.com/livepeer/community-governance/issues/12) | [Notes](LIP-Meetings/LIP-Meeting-9.md)                                                              | [Recording](https://youtu.be/Cn8JlkBT8Sc)                                 |
 | 8   | Thursday September 17th 2020, 17:00 UTC | [Agenda](https://github.com/livepeer/community-governance/issues/11) | [Notes](LIP-Meetings/LIP-Meeting-8.md)                                                              | [Recording](https://youtu.be/lU2u3uaXoYA)                                 |
 | 7   | Thursday September 3rd 2020, 17:00 UTC  | [Agenda](https://github.com/livepeer/community-governance/issues/10) | [Notes](LIP-Meetings/LIP-Meeting-7.md)                                                              | [Recording](https://youtu.be/q6I2DkY8yMU)                                 |
 | 6   | Thursday August 20th 2020, 17:00 UTC    | [Agenda](https://github.com/livepeer/community-governance/issues/9)  | [Notes](LIP-Meetings/LIP-Meeting-6.md)                                                              | [Recording](https://youtu.be/Ierxk7FH_mE)                                 |
