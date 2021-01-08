@@ -6,7 +6,7 @@ This repo contains information and tools for community governance of the Livepee
 
 ### Purpose
 
-The LIP meeting is a bi-weekly discussion of [LIPs](https://github.com/livepeer/LIPs) to improve the Livepeer protocol. The meeting will:
+The LIP meeting is typically a bi-weekly discussion (there may be longer periods of time in between meetings if there is not a substantial amount of LIP related activity) of [LIPs](https://github.com/livepeer/LIPs) to improve the Livepeer protocol. The meeting will:
 
 - Serve as a forum for synchronous, verbal feedback on LIPs to complement the asynchronous, written feedback that can be found in [LIP issues](https://github.com/livepeer/LIPs/issues), the [Livepeer forum](https://forum.livepeer.org/) or [Discord](https://discord.gg/7wRSUGX).
 - Enable LIP contributors to share updates on the status of a LIP's design and/or implementation.
